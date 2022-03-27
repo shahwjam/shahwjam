@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahwjam
+- 👋 Hi, I’m Shahwan 
 - 👀 I’m interested in Gaming, Reading, and Coding
 - 🌱 I’m currently learning Python 🐍 
 - 💞️ I’m looking to collaborate on anything 
