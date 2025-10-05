@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Featured Projects
-### 🕹️ [Tic-Tac-Toe with GUI](https://github.com/shahwjam/tic-tac-toe-gui)
+### 🕹️ [Tic-Tac-Toe with GUI](https://github.com/shahwjam/TicTacToe-Game.git)
 - Built in Python using `graphics.py`
 - Interactive grid input, win/draw detection, real-time updates  
 
