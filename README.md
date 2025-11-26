@@ -17,6 +17,11 @@
 ### 🕹️ [Tic-Tac-Toe with GUI](https://github.com/shahwjam/TicTacToe-Game.git)
 - Built in Python using `graphics.py`
 - Interactive grid input, win/draw detection, real-time updates  
+  
+### 🔐 [Caesar Cipher Encryption Tool](https://github.com/shahwjam/Caesar-Cipher)
+- Python implementation of the classic Caesar Cipher
+- Supports encryption & decryption with any shift value
+- Clean, beginner-friendly command-line interface
 
 ### 🔤 [Python Wordle Game](https://github.com/shahwjam/python-wordle)
 - Command-line Wordle clone in Python
