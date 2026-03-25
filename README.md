@@ -22,7 +22,11 @@ Hi, I’m Shahwan!<br><br>I’m a Computer Science student passionate about buil
 
 ### 🔤 [Python Wordle Game](https://github.com/shahwjam/python-wordle)
 - Command-line Wordle clone in Python
-- Color-coded feedback, input validation, clean modular code  
+- Color-coded feedback, input validation, clean modular code
+
+### 💻 [Terminal Setup For Dev ](https://github.com/shahwjam/terminal-setup-for-dev)
+- Customized Ghostty terminal to match the Omarchy on macOS
+- Set up modern CLI tools and a minimal Starship prompt for a faster workflow
 
 
 
